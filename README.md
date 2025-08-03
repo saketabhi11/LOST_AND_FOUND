@@ -47,3 +47,12 @@ npm start
 ```python
 The server will run on http://localhost:8000, and the client will be available at http://localhost:3000
 ```
+
+
+
+🙌 Contributing
+Contributions, suggestions, and ideas to improve Lost and Found are warmly welcome!
+Feel free to fork this repo, make changes, and submit a pull request.
+
+Designed and built with ❤️ , passion and purpose by Saket Abhishek to bring lost stories home.
+✨ Let's build something meaningful together.
